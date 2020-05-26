@@ -26,15 +26,15 @@ This will output the number of nodes traversed and the nodepath on the console, 
 
 
 
-Dependencies:
+## Dependencies:
 
 Install python3, numpy and collections(for queue) library as dependencies. 
 
 
 
-The output files have been generated for the given sample intial node:
+The output files have been generated for the given sample intial state:
 
-[1 8 2]
-[0 4 3]
+[1 8 2] <br/>
+[0 4 3] <br/>
 [7 6 5]
 
